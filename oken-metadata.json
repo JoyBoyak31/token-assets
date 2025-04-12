@@ -1,0 +1,6 @@
+{
+  "name": "My Existing Wallet Token",
+  "symbol": "MEWT",
+  "description": "A test token created on Solana devnet",
+  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/token-assets/main/logo.jpg"
+}
